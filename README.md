@@ -1,3 +1,3 @@
 # nike-app-assignment
 Zap Tek
-![Screenshot](./ZaptekAssignment.png)
+![Screenshot](ZaptekAssignment.png)
